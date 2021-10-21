@@ -6,13 +6,14 @@
 body {
   margin: 0;
   padding: 0;
+  background-color: rgba(241, 241, 241, 0.87);
 }
 .navBar {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: rgba(99, 160, 218, 0.603);
-  color: white;
+  background-color: rgba(15, 133, 200, 0.801);
+  color: rgb(199, 199, 199);
 }
 
 .name-title {
@@ -79,4 +80,30 @@ body {
   .navBar-list.active {
     display: flex;
   }
+}
+
+.section-container {
+  margin-bottom: var(--section-spacing);
+}
+
+.section-container h1,
+.section-container h2 {
+  text-align: center;
+}
+
+.image-container {
+  width: 100%;
+  height: 0;
+  overflow: hidden;
+  position: relative;
+  padding-bottom: 56.25%;
+}
+
+.image-container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
