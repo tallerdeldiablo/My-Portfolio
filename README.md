@@ -15,12 +15,14 @@ The following link is for the live URL: https://tallerdeldiablo.github.io/My-Por
 
 
 ##
-![image](https://user-images.githubusercontent.com/57916204/138308312-84a71ea3-1e4a-4a1f-9f0f-14413a4f7d26.png)
+
+![image](https://user-images.githubusercontent.com/57916204/138388082-87631d21-6853-4daf-b3d3-d5fc05bf121b.png)
 
 
 ##
 
-![image](https://user-images.githubusercontent.com/57916204/138386818-3b5a2b37-e0be-427f-8000-cd47e0724b21.png)
+![image](https://user-images.githubusercontent.com/57916204/138387936-33eab856-0a0c-44da-ae1e-9f5ae8ff9551.png)
+
 
 
 ##
