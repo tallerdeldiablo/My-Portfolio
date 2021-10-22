@@ -13,11 +13,18 @@ body {
   flex-wrap: wrap;
   margin-left: 12%;
 }
+.icon-So {
+  display: fixed;
+  left: 1px;
+  top: 20px;
+  width: 4rem;
+  height: 200%;
+}
 .navBar {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: rgba(15, 133, 200, 0.801);
+  background-color: rgba(12, 144, 206, 0.801);
   color: rgb(199, 199, 199);
 }
 
@@ -62,7 +69,7 @@ body {
   border-radius: 10px;
 }
 
-@media (max-width: 456px) {
+@media (max-width: 678px) {
   .toggle {
     display: flex;
   }
