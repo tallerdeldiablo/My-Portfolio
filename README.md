@@ -3,15 +3,11 @@ The objective of this web page is to show my work done in the programming area.
 
 The intention of this page was to create it with HTML, CSS and JS to make it responsive.
 
-##
-![image](https://user-images.githubusercontent.com/57916204/138386683-4daa6d9e-db38-41a4-bee1-a28b41169147.png)
-
 
 # Installation
 No installation needed
 
 The following link is for the live URL: https://tallerdeldiablo.github.io/My-Portfolio/
-
 
 
 ##
