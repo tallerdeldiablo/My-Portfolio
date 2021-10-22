@@ -8,6 +8,11 @@ body {
   padding: 0;
   background-color: rgba(241, 241, 241, 0.87);
 }
+.images-skills {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 12%;
+}
 .navBar {
   display: flex;
   justify-content: space-between;
@@ -79,6 +84,11 @@ body {
   }
   .navBar-list.active {
     display: flex;
+  }
+  .images-skills {
+    flex-direction: column;
+    align-items: flex-start;
+    width: 200px;
   }
 }
 
