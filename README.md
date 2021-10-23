@@ -12,8 +12,7 @@ The following link is for the live URL: https://tallerdeldiablo.github.io/My-Por
 
 ##
 
-![image](https://user-images.githubusercontent.com/57916204/138388082-87631d21-6853-4daf-b3d3-d5fc05bf121b.png)
-
+![image](https://user-images.githubusercontent.com/57916204/138568126-31f99c03-6a22-4798-b04a-c2d7c883b385.png)
 
 ##
 
