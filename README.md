@@ -7,8 +7,8 @@ The intention of this page was to create it with HTML, CSS and JS to make it res
 - [Usage](#usage)
 - [Links](#links)
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tallerdeldiablo)](https://github.com/tallerdeldiablo/Quiz)
+### my github stats
+[![Mystats](https://github-readme-stats.vercel.app/api/top-langs/?username=tallerdeldiablo)](https://github.com/tallerdeldiablo/Quiz)
 
 # Installation
 No installation needed
