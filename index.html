@@ -33,7 +33,8 @@
   <body>
     <header>
       <nav class="navBar">
-        <div class="">Ricardo Angulo</div>    <div class="icon-So">
+        <div class="name-title">Ricardo Angulo</div>
+        <div class="icon-So">
           <a href="https://www.linkedin.com/in/ricoding/">
             <ion-icon name="logo-linkedin"></ion-icon></a>
         </div>
@@ -42,7 +43,7 @@
             <ion-icon name="logo-github"></ion-icon
           ></a>
         </div>
-        <a href="#" class="toggle">
+        <a href="#" class="toggle" aria-label="Toggle navigation">
           <span class="hamburguer"></span>
           <span class="hamburguer"></span>
           <span class="hamburguer"></span
@@ -68,14 +69,14 @@
 
 
     <br /><i class="fa-solid fa-user"></i>
-    <div id="titl-skil">
+    <div id="skills">
       <h1 class="text-center"><br />Skills<br /><br /></h1>
     </div>
 
     <!-- icons skills----------------->
 
-    <div id="skillsdi" class="row justify-content-md-center">
-      <div id="intro" class="images-skills">
+    <div class="skillsdi row justify-content-md-center">
+      <div class="images-skills">
         <div class="col-4 col-12-medium">
           <section class="first">
             <header>
@@ -95,7 +96,7 @@
               <img
                 src="./assets/icons/icons8-css3-50.png"
                 class="images-skills"
-                alt="logo'-css"
+                alt="CSS logo"
               />
             </header>
             <p>CSS</p>
@@ -116,17 +117,17 @@
           </section>
         </div>
       </div>
-    </div></div>
+    </div>
 
-    <div id="skillsdi" class="row justify-content-md-center">
-      <div id="intro" class="images-skills">
+    <div class="skillsdi row justify-content-md-center">
+      <div class="images-skills">
         <div class="col-4 col-12-medium">
           <section class="first">
             <header>
               <img
                 src="./assets/icons/mysql-50.png"
                 class="images-skills"
-                alt="logo-mysq"
+                alt="MySQL logo"
               />
             </header>
             <p>MySQL</p>
@@ -139,7 +140,7 @@
               <img
                 src="./assets/icons/node-js-32.png"
                 class="images-skills"
-                alt="logo'-node"
+                alt="Node.js logo"
               />
             </header>
             <p>Nodejs</p>
@@ -160,11 +161,11 @@
           </section>
         </div>
       </div>
-    </div></div>
+    </div>
 
 
     <!-- ABOUT  ME ----------------->
-    <section class="about-section">
+    <section id="intro" class="about-section">
       <div class="content-wrapper">
         <h2 class="title">About me</h2>
         <p>
@@ -185,12 +186,12 @@
 
         <div class="d-flex flex-column">
           <div class="p-2"><br /></div>
-          <h2 id="my work" class="text-center">My work</h2>
+          <h2 id="mywork" class="text-center">My work</h2>
           <div class="p-2"><br /></div>
         </div>
         
 
-        <div id="skills" class="row row-cols-1 row-cols-md-3 g-4">
+        <div class="row row-cols-1 row-cols-md-3 g-4">
           <div class="col">
             <div class="card">
               <div
@@ -264,8 +265,7 @@
               <div class="card-body">
                 <h5 class="card-title">Work Day scheduler</h5>
                 <p class="card-text">
-                  This is a yellow pages-style website created with WordPress to
-                  search for and promote local businesses.
+                  A simple day planner to organize tasks during work hours.
                 </p>
                 <a href="https://tallerdeldiablo.github.io/Workday-planner" class="btn btn-primary"
                   >See it here</a
@@ -336,6 +336,8 @@
                 <a href="https://mysterious-earth-01404.herokuapp.com/" class="btn btn-primary">See it here</a>
               </div>
             </div>
+          </div>
+        </div>
       <!------------------->
     <footer class="main-footer"></footer>
 
