@@ -97,11 +97,11 @@ h1 {
   margin-left: 100px;
   margin-right: 100px;
 }
-#skillsdi {
+.skillsdi {
   display: flex;
   justify-content: space-around;
 }
-#titl-skil {
+#skills {
   padding-top: 2px;
 
   margin-top: 4px;
@@ -168,7 +168,7 @@ h1 {
     flex-direction: column;
     align-items: center;
   }
-  #titl-skil {
+  #skills {
     padding-top: 20px;
 
     margin-top: 40px;
